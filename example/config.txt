@@ -1,0 +1,2 @@
+Prefix plugins/PlotROCC/example/
+Plugin PlotROCC inputfile parameters.txt outputfile output.png
